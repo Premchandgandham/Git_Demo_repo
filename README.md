@@ -1,2 +1,2 @@
-# Git_Demo_repo
-Just testing
+This is first file in Git_repo
+
